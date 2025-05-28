@@ -5,7 +5,7 @@ Presently on sabbatical after a decade at Amazon, mostly with Alexa. I was good 
 I was a proper dev, and quite good, for much of my early career but have since migrated to more of the Biz Dev / Solutions Architecture side of the house. Ya know, middle aged developer type things! 😂
 
 - 📫 justin@pecott.net
-- 🕸️ [justin.pecott.net](https://justin.pecott.net)
+- 🔗 [justin.pecott.net](https://justin.pecott.net)
 - 😄 he/him
 - 🌱 as much as I can about ai/llm
 
