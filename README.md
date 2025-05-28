@@ -1,8 +1,14 @@
 # Hi there, my name is Justin 👋
 
-Presently on sabbatical after a decade at Amazon, mostly with Alexa. I was good and burned out by the end!! I've spent much of this time getting well, both mentally and physically. I'm now feeling ready to sharpen up the toolset and and re-engage. Trying to immerse myself as much as I can in all things AI, Machine Learning, and Data Engineering.
+Presently on sabbatical after a decade at Amazon, mostly with Alexa. I was good and burned out by the end!! I've spent much of this time getting well, both mentally and physically. I'm now feeling ready to sharpen up the toolset and and re-engage. At the moment that means trying to immerse myself as much as I can in all things AI.
 
 I was a proper dev, and quite good, for much of my early career but have since migrated to more of the Biz Dev / Solutions Architecture side of the house. Ya know, middle aged developer type things! 😂
+
+- 📫 justin@pecott.net
+- 🕸️ [justin.pecott.net](https://justin.pecott.net)
+- 😄 he/him
+- 🌱 as much as I can about ai/llm
+
 <!--
 **justinpecott/justinpecott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
